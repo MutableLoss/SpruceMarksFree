@@ -1,0 +1,20 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "description": "Automatically sort bookmarks.",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDnabA8+iq5xp7ZvgwbB2BdF/O2QB+WTjnwXzqyXX5hiAZn44lL7Vfskp47XqIpeEbjCrDx8DxABF95PHHBBYCrfq7Mp3/zcO4WtoqFNQJgs4LfUePLc5eQ/J+YSFycerSrX2qdNlcdmRrJZxAVV16zxqFim4qVuKTFTzUqUKw0gwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "55",
+   "name": "Sprucemarks",
+   "options_page": "options.html",
+   "permissions": [ "bookmarks", "storage" ],
+   "short_name": "Sprucemarks",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2019.12.1.0"
+}
